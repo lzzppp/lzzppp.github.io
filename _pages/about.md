@@ -25,18 +25,20 @@ No progress, woo woo woo !
 
 # 📝 Publications 
 
+- Ziyang Xiao, Dongxiang Zhang, **Zepeng Li**, Sai Wu, Kian-Lee Tan, Gang Chen. DoveDB: A Declarative and Low-Latency Video Database. Proceedings of the VLDB Endowment (VLDB), 2023. [PDF](https://www.vldb.org/pvldb/vol16/p3906-zhang.pdf)
 
+- **Zepeng Li**, Dongxiang Zhang, Yanyan Shen, Gang Chen. Human-in-the-loop vehicle ReID. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023. [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/25747/25519)
 
-# 🎖 Honors and Awards
+- Dongxiang Zhang, **Zepeng Li**, Xiaoli Wang, Kian-Lee Tan, Gang Chen. Towards One-Size-Fits-Many: Multi-Context Attention Network for Diversity of Entity Resolution Tasks. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360523)
 
 # 📖 Educations
 
 - *2022.09 - now*, Zhejiang University, majoring in computer science and technology, pursuing a Ph.D.
 - *2018.09 - 2022.06*, University of Electronic Science and Technology of China, major in basic mathematics and physics, bachelor.
 
-# 💬 Invited Talks
-
-# 💻 Internships
+# 🫵 Contact
 
 Qian Shao: [Homepage](https://abeier87.github.io)
+
 Qiyuan Chen: [Homepage](https://qiyuan-chen.github.io/)
+
