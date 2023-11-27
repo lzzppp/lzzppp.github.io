@@ -42,3 +42,4 @@ Qian Shao: [Homepage](https://abeier87.github.io)
 
 Qiyuan Chen: [Homepage](https://qiyuan-chen.github.io/)
 
+Jiangrui Kang: [Homepage](https://jiangruikang.github.io)
