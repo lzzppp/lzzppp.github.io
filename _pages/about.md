@@ -24,13 +24,13 @@ I am a PhD candidate at the School of Computer Science and Technology at Zhejian
 
 # 📝 Publications 
 
-- **Zepeng Li**, Dongxiang Zhang, Sai Wu, Mingli Song, Gang Chen. Sampling-Resilient Multi-Object Tracking. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.
+- **Zepeng Li**, Dongxiang Zhang, Sai Wu, Mingli Song, Gang Chen. *Sampling-Resilient Multi-Object Tracking*. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
-- Ziyang Xiao, Dongxiang Zhang, **Zepeng Li**, Sai Wu, Kian-Lee Tan, Gang Chen. DoveDB: A Declarative and Low-Latency Video Database. Proceedings of the VLDB Endowment (VLDB), 2023. [PDF](https://www.vldb.org/pvldb/vol16/p3906-zhang.pdf)
+- Ziyang Xiao, Dongxiang Zhang, **Zepeng Li**, Sai Wu, Kian-Lee Tan, Gang Chen. *DoveDB: A Declarative and Low-Latency Video Database*. Proceedings of the VLDB Endowment (VLDB), 2023. [PDF](https://www.vldb.org/pvldb/vol16/p3906-zhang.pdf)
 
-- **Zepeng Li**, Dongxiang Zhang, Yanyan Shen, Gang Chen. Human-in-the-loop vehicle ReID. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023. [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/25747/25519)
+- **Zepeng Li**, Dongxiang Zhang, Yanyan Shen, Gang Chen. *Human-in-the-loop vehicle ReID*. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023. [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/25747/25519)
 
-- Dongxiang Zhang, **Zepeng Li**, Xiaoli Wang, Kian-Lee Tan, Gang Chen. Towards One-Size-Fits-Many: Multi-Context Attention Network for Diversity of Entity Resolution Tasks. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360523)
+- Dongxiang Zhang, **Zepeng Li**, Xiaoli Wang, Kian-Lee Tan, Gang Chen. *Towards One-Size-Fits-Many: Multi-Context Attention Network for Diversity of Entity Resolution Tasks*. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9360523)
 
 # 📖 Educations
 
