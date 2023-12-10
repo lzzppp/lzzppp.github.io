@@ -19,9 +19,6 @@ redirect_from:
 
 I am a PhD candidate at the School of Computer Science and Technology at Zhejiang University, where I am deeply engaged in exploring the intricacies of tracking problems within large-scale video data. My research primarily focuses on the fields of re-identification, multi-object detection, and tracking, striving to contribute innovative solutions to these complex areas.
 
-% # 🔥 News
-% No progress, woo woo woo !
-
 # 📝 Publications 
 
 - **Zepeng Li**, Dongxiang Zhang, Sai Wu, Mingli Song, Gang Chen. *Sampling-Resilient Multi-Object Tracking*. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.
