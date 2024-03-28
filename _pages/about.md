@@ -21,7 +21,7 @@ I am a PhD candidate at the School of Computer Science and Technology at Zhejian
 
 # 📝 Publications 
 
-- **Zepeng Li**, Dongxiang Zhang, Sai Wu, Mingli Song, Gang Chen. *Sampling-Resilient Multi-Object Tracking*. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.
+- **Zepeng Li**, Dongxiang Zhang, Sai Wu, Mingli Song, Gang Chen. *Sampling-Resilient Multi-Object Tracking*. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28115/28234)
 
 - Ziyang Xiao, Dongxiang Zhang, **Zepeng Li**, Sai Wu, Kian-Lee Tan, Gang Chen. *DoveDB: A Declarative and Low-Latency Video Database*. Proceedings of the VLDB Endowment (VLDB), 2023. [PDF](https://www.vldb.org/pvldb/vol16/p3906-zhang.pdf)
 
