@@ -40,4 +40,4 @@ I am a PhD candidate at the School of Computer Science and Technology at Zhejian
 
 Qian Shao: [Homepage](https://abeier87.github.io)
 
-Qiyuan Chen: [Homepage](https://qiyuan-chen.github.io/)
+Qiyuan Chen: [Homepage](https://qychen2001.github.io/)
