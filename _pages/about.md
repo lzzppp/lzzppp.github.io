@@ -21,6 +21,8 @@ I am a PhD candidate at the School of Computer Science and Technology at Zhejian
 
 # 📝 Publications 
 
+- Qian Shao, Kai Zhang, Bang Du, **Zepeng Li**, Yixuan Wu, Qiyuan Chen, Jian Wu, Jintai Chen. *Take Your Steps: Hierarchically Efficient Pulmonary Disease Screening via CT Compression*. Knowledge Discovery in Databases. Workshop:Artificial Intelligence and Data Science for Healthcare. (KDD-AIDSH), 2024. [PDF](https://openreview.net/forum?id=JLyiMGQoqZ)
+
 - **Zepeng Li**, Dongxiang Zhang, Sai Wu, Mingli Song, Gang Chen. *Sampling-Resilient Multi-Object Tracking*. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28115/28234)
 
 - Ziyang Xiao, Dongxiang Zhang, **Zepeng Li**, Sai Wu, Kian-Lee Tan, Gang Chen. *DoveDB: A Declarative and Low-Latency Video Database*. Proceedings of the VLDB Endowment (VLDB), 2023. [PDF](https://www.vldb.org/pvldb/vol16/p3906-zhang.pdf)
