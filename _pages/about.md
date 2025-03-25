@@ -21,7 +21,7 @@ I am a PhD candidate at the School of Computer Science and Technology at Zhejian
 
 # 📝 Publications 
 
-- Baiyan Zhang, **Zepeng Li [Co-first Author]**, Dongxiang Zhang. *High-Throughput Ingestion for Video Warehouse: Comprehensive Configuration and Effective Exploration*. The ACM Special Interest Group on Management of Data. (SIGMOD), 2025.
+- Baiyan Zhang, **Zepeng Li** *Co-first Author*, Dongxiang Zhang. *High-Throughput Ingestion for Video Warehouse: Comprehensive Configuration and Effective Exploration*. The ACM Special Interest Group on Management of Data. (SIGMOD), 2025.
 
 - Qian Shao, Jiangrui Kang, Qiyuan Chen, **Zepeng Li**, Hongxia Xu, Yiwen Cao, Jiajuan Liang , and Jian Wu. *Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection*. Conference on Neural Information Processing Systems. (NeurIPS), 2024. [PDF](https://arxiv.org/pdf/2409.11653)
 
